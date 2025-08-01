@@ -1,5 +1,3 @@
-Here is the README.md file for the given code:
-
 # Project Title
 Auto-Generate GitHub README using GPT-2 (Open Source) and Groq
 
